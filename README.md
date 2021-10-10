@@ -9,6 +9,7 @@ This repository contains the exercises made in the Hackerrank platform, in order
 ## Script Descriptions
 
 * scripts.ipynb: Contains the Hackerrank exercises on Python that was possible to make for the first homework of the course. 
+* stamps: Contains a pdf with screenshots of the exercises submitted to the Hackerrank page, as part of the Homework 1.
 
 
 
